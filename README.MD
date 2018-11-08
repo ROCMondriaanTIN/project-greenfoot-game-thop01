@@ -1,4 +1,4 @@
-# Project Greenfoot game
+# LDG game
 Voor dit project krijg je een kleine platformer engine. Daarnaast ga je ook werken met git om je 
 werk op te slaan.
 
